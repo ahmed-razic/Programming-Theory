@@ -4,9 +4,7 @@ using UnityEngine;
 
 public abstract class Animal : MonoBehaviour
 {
-    protected string animalName;
-    protected string animalSound;
-    protected int animalAge;
+
 
     public void AnimalMethod()
     {
